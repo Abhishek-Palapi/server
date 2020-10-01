@@ -1,0 +1,50 @@
+{
+    "items": [
+      {
+        "label": "food",
+        "items": [
+          {
+            "label": "Rice",
+            "items": [
+              { "label": "Basmati Rice" },
+              { "label": "Brown Rice" },
+              { "label": "Jasmine Rice" }
+            ]
+          },
+          {
+            "label": "Milk",
+            "items": [
+              { "label": "Soya Milk" },
+              { "label": "Cow Milk" },
+              { "label": "Silm Milk" }
+            ]
+          },
+          {
+            "label": "Vegetables",
+            "items": [
+              { "label": "Tomato" },
+              { "label": "Carrot" },
+              { "label": "Green Chilly" }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Utencils",
+        "items": [
+          { "label": "Tea sets" },
+          { "label": "Spoons" },
+          { "label": "Plates" }
+        ]
+      },
+      {
+        "label": "Toys",
+        "items": [
+          { "label": "Electric toys" },
+          { "label": "Board games" },
+          { "label": "Card games" }
+        ]
+      }
+    ]
+  }
+  
